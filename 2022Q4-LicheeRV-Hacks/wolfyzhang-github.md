@@ -2,7 +2,7 @@
 
 ## 参与人
 
-github: wolfyzhang-github
+none
 
 ## 项目背景
 
