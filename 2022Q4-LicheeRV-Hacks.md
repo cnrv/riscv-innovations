@@ -14,8 +14,8 @@
 
 任何具有国内收快递地址的伙伴都可以报名。报名方法：
 
-1. Fork [cnrv/riscv-innovations](https://github.com/cnrv/riscv-innovations/) 仓库；复制 [2022Q4-LicheeRV-Hacks/Proposal_Template.md](https://github.com/cnrv/riscv-innovations/blob/main/2022Q4-LicheeRV-Hacks/Proposal_Template.md) 并以自己的 GitHub ID 命名；填写哪里的内容；发起PR。
-2. CNRV组织方会在5天内审核PR并给出反馈意见。所有合并意见讨论一致之后会被合并。
+1. Fork [cnrv/riscv-innovations](https://github.com/cnrv/riscv-innovations/) 仓库；复制 [2022Q4-LicheeRV-Hacks/Proposal_Template.md](https://github.com/cnrv/riscv-innovations/blob/main/2022Q4-LicheeRV-Hacks/Proposal_Template.md) 并以自己的 GitHub ID 命名；填写模版里的内容；发起PR。
+2. CNRV组织方会在5天内审核PR并给出反馈意见。有可能需要根据Review意见修改。形式要件满足后，PR会被合并。
 3. 合并之后，主办方会通过非公开的（邮件或微信或百格表单）渠道让你提供收快递地址。
 4. 大概在一周内，你会收到 LicheeRV 1GB 内存的开发板。
 5. Happy Hacking！ 等你完成工作之后，发起一个新的PR，将成果的链接追加到自己的 proposal 的末尾即可。
