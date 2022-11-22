@@ -19,7 +19,7 @@
 1. 实现一个简单的 Buffer Pool Manager，能管理内存中的数据页并交换磁盘上的数据，实现 LRU 算法
 2. 实现简单的持久化索引，如 B+ 树，可扩展哈希索引等
 3. 实现简单的并发控制，能够保证索引的线程安全性
-4. 实现简单的 SQL 查询功能，能解析 SQL 语句并执行查询返回结果
+4. 实现简单的 SQL 查询功能，能解析 SQL 语句并执行查询返回结果（预计实现常用的 DDL 和 DML 如 SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, DROP TABLE, CREATE INDEX, DROP INDEX 等）
 5. 实现 Raft 分布式算法，能够实现分布式数据库
 
 （最好是自己预测一两个月内能完成的工作，不要拖到过年。）
