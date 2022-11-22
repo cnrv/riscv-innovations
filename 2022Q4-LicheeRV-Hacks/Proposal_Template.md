@@ -1,4 +1,4 @@
-# 为rt-thread添加licheeRV的bsp，并做asid功能验证
+# 为rt-thread smart添加riscv asid支持和licheeRV bsp
 
 ## 参与人
 
@@ -13,7 +13,7 @@ gitee：c__hy(1002138131@qq.com)
 ## 项目目标
 
 1. 移植rt-thread smart到licheeRV上，必要的话需要制作一个licheeRV的bsp。
-2. 添加rt-smart的asid支持。
+2. 添加rt-smart的riscv asid支持。
 
 ## 预期成果
 
