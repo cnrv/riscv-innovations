@@ -3,6 +3,7 @@
 ## 参与人
 
 github: chenhy0106(1002138131@qq.com)
+
 gitee：c__hy(1002138131@qq.com)
 
 ## 项目背景
@@ -17,7 +18,7 @@ gitee：c__hy(1002138131@qq.com)
 ## 预期成果
 
 1. 用于rt-smart的licheeRV板级支持包（bsp）
-2. rt-smart的riscv asid单核支持。（全志D1似乎是单核的，所以做多核支持也没法测试）
+2. rt-smart的riscv asid单核支持。（全志D1似乎是riscv单核的，所以做多核支持也没法测试）代码提交到仓库https://gitee.com/rtthread/rt-thread/tree/rt-smart/
 
 ## 预期时间表
 
