@@ -17,7 +17,7 @@
 ## 项目目标
 
 1. 实现一个简单的 Buffer Pool Manager，能管理内存中的数据页并交换磁盘上的数据，实现 LRU 算法
-2. 实现简单的持久化索引，如 B+ 树，可扩展哈希索引等
+2. 实现简单的持久化索引，如 B+ 树、LSM 树、可扩展哈希索引等
 3. 实现简单的并发控制，能够保证索引的线程安全性
 4. 实现简单的 SQL 查询功能，能解析 SQL 语句并执行查询返回结果（预计实现常用的 DDL 和 DML 如 SELECT, INSERT, UPDATE, DELETE, CREATE TABLE, DROP TABLE, CREATE INDEX, DROP INDEX 等）
 5. 实现网络通信功能，可以通过网络执行 SQL 语句
