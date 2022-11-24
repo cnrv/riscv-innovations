@@ -4,9 +4,7 @@
 
 
 ## 参与人
-github: happygame9
-ID:110003584
-
+[github: happygame9]
 
 ## 项目背景
 想要做一个嵌入式驱动的项目，学习嵌入式开发
