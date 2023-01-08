@@ -25,3 +25,4 @@ github: qinyunti。
 2.第二个月,集合之前的测试,移植NES模拟器,实现一个掌上游戏机。
 
 ## 成果展示
+https://bbs.21ic.com/icview-3277202-1-1.html
