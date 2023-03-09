@@ -25,11 +25,13 @@ gitee：c__hy(1002138131@qq.com)
 ## 预期时间表
 
 1. 12月前在rt-smart上添加单核asid支持。
-2. 收到板子后到12月底，制作licheeRV的bsp
+2. 收到板子后到12月底，制作licheeRV的bsp。
 3. 剩下时间测试asid的功能正确性。
 
 ## 成果展示
 
 【提交 proposal 的时候不要填写，留白。等以后做出来之后，将相关的链接PR到这里即可。】
-为riscv (c906) 添加asid支持，已经合并rt-thread仓库
-https://github.com/RT-Thread/rt-thread/pull/6870
+
+为riscv (c906) 添加asid支持，已经合并rt-thread仓库。
+
+[PR链接](https://github.com/RT-Thread/rt-thread/pull/6870)
