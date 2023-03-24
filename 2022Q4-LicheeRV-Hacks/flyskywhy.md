@@ -23,3 +23,7 @@ github: flyskywhy
 一个月内完成我的 GO 项目的编译、运行尝试，另一个月内试验 JS 的各种可能性。
 
 ## 成果展示
+
+* [go-textile: support risc-v](https://github.com/flyskywhy/textiot/commit/046914e)
+* [Lichee RV 使用详解](https://github.com/flyskywhy/g/blob/master/i%E4%B8%BB%E8%A7%82%E7%9A%84%E4%BD%93%E9%AA%8C%E6%96%B9%E5%BC%8F/t%E5%BF%AB%E4%B9%90%E7%9A%84%E4%BD%93%E9%AA%8C/%E7%94%B5%E4%BF%A1/Cpu/Riscv/LicheeRV%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.md)
+* 关于 JS ， nodejs 安装运行了，但安装 npm 时如上面“Lichee RV 使用详解”文中所言“烧录的 Debian 镜像的根分区只分配了`3.6GB`，所以安装到最后`No space left on device`，期望后续官方能出个根分区更大的镜像”
